@@ -1,4 +1,4 @@
-module github.com/brightsheets/snyk-demo-go-2
+module github.com/test-snyk-demo/snyk-demo-go-2
 
 go 1.21
 
